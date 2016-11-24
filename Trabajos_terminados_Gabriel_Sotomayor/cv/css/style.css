@@ -1,0 +1,162 @@
+
+	body
+	{
+		font-family: times,arial,sans-serif;
+		background-color: #efefef;
+		font-family: 'Jaldi', sans-serif;
+		font-size:14px;
+		line-height: 20px;
+		color: #333;
+		text-transform: uppercase;
+
+	}
+	div.c-izquierda
+	{
+		text-align: left;
+		width:26%;
+		float:left;
+
+	}
+	div.c-derecha
+	{
+		text-align: right;
+		background-color:#FFFFFF;
+		width:72%;
+		float:right;
+	}
+	h2.nom
+	{
+		color:#FF0000;
+		font-size:28px;
+		font-family: times,arial,sans-serif; 
+		line-height: 25px;
+		text-transform: :uppercase;
+
+
+	}
+	li
+	{
+		color: #000000;
+	}
+	h2.experiencia
+	{
+		font-family: times,arial,sans-serif;
+		color: #1c1717;
+		font-size:30px;
+	}
+	p.vendiendo
+	{
+		font-family: times,arial,sans-serif;
+		color: #FF0000;
+		font-size:20px;
+	}
+	p.primerparrafo
+	{
+		font-family: times,arial,sans-serif;
+		color: #FF0000;
+		font-size:20px;	
+	}
+	p.estudioss
+	{
+		font-family: times,arial,sans-serif;
+		color: #FF0000;
+		font-size:20px;	
+	}
+	h6
+	{
+		font-family: times,arial,sans-serif;
+		color: #1c1717;
+		font-size:25px;	
+	}
+	p.megustaria
+	{
+		font-family: times,arial,sans-serif;
+		color: #1c1717;
+		font-size:20px;	
+	}
+	h2.profession
+	{
+		color: #777;
+		font-size: 22px;
+		font-weight:300;
+		line-height: 30px;
+		text-transform: uppercase;
+	}
+	ul.menut
+	{
+		text-decoration:none;
+		font-weight: 700;
+		font-size: 20px;
+		line-height:45px;
+		text-transform:uppercase;
+		color:#85878b;
+		padding: 0PX;
+		color:#26292e;
+		line-height:45px;
+		text-decoration: none;
+	}
+	ul li a.item1:hover{
+		color:#FF0000; 
+	}
+	div.contendor
+	{
+		max-width:940px;
+		margin:auto;
+		margin-top:40px;
+		min-height:100%;
+	}
+	html
+	{
+		height:100%;
+		box-sizing: border-box;
+	}
+	div.informacionperso
+	{
+		display: inline-block;
+	}
+	div.informacionlaboral
+	{
+		display: inline-block;
+	}
+	div.import
+	{
+		display: inline-block
+		width:35%;
+		padding-top: 8px;
+	}
+	div.cosas
+	{
+		display: inline-block
+		width:63%;
+		padding-top: 8px;
+	}
+	div.entretenimiento1
+	{
+		background-image:url("./imagen/megadeth.jpg");
+		width:100%;
+		min-height: 140px;
+	}
+	div.entretenimiento2
+	{
+		background-image: url("./imagen/leer.jpg");
+		width:100%;
+		min-height: 140px;
+	}
+	div.entretenimiento3
+	{
+		background-image: url("./imagen/basket.jpg");
+		width:100%;
+		min-height: 140px;
+	}
+	h3.reaccion
+	{
+		width: 31%;
+		padding-right:auto;
+		padding-left: 1%;
+		float:left;
+	}
+	img.fotoxd
+	{
+		 width:250;
+		 height: 250
+	}
